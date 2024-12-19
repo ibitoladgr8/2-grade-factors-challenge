@@ -25,11 +25,9 @@ From your analysis, answer the following questions:
 
 ### Timeline
 
-<!-- TODO Add relevant dates -->
-
-- **Challenge Release:** Saturday, 21st December, 2024
-- **Submission Deadline:** {date} (11:59 PM)
-- **Winner Announcement:** Someday between {} and {} depending on the number of submissions.
+- **Challenge Release:** Friday, 20th December, 2024
+- **Submission Deadline:** Tuesday, 24th December, 2024 (11:59 PM)
+- **Winner Announcement:** Someday between January 2nd and January 5th depending on the number of submissions.
 
 ### Evaluation Criteria
 
